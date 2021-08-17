@@ -1,0 +1,6 @@
+Tunts - Selective Process - Thauan Tavares
+For run the program use:
+> chmod +x Main.py
+>./Main.py
+The program prepares the table then analyzes the data and calculates the result.
+PS. Have a little delay because of google quota
