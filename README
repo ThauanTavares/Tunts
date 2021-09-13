@@ -1,5 +1,6 @@
 Tunts - Selective Process - Thauan Tavares
-google sheets - Link 
+open linkgooglesheets
+copy and paste the link to access sheets
 For run the program use:
 > chmod +x Main.py
 >./Main.py
